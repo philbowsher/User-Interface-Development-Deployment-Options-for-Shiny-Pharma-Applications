@@ -1,0 +1,12 @@
+name: ui_deploy_shiny_pharma
+title: ui_deploy_shiny_pharma
+username: phil
+account: phil
+server: colorado.rstudio.com
+hostUrl: http://colorado.rstudio.com:3939/__api__
+appId: 1583
+bundleId: 19807
+url: http://colorado.rstudio.com:3939/content/1583/
+when: 1539931844.96007
+asMultiple: FALSE
+asStatic: FALSE
